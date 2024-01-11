@@ -1,4 +1,4 @@
-# Fuse - Admin template and Starter project for Angular
+# AdminIglesia - Software Administardor de Iglesias creado en Angular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli)
 

@@ -19,6 +19,21 @@ export const categories = [
         id   : '5648a630-979f-4403-8c41-fc9790dea8cd',
         title: 'Android',
         slug : 'android'
+    },
+    {
+        id   : '5648a630-979f-4403-8c41-fc9790dea8cd',
+        title: 'Android',
+        slug : 'android'
+    },
+    {
+        id   : '5648a630-979f-4403-8999-fc9790dea8cd',
+        title: 'Ciclo 1',
+        slug : 'ciclo-1'
+    },
+    {
+        id   : '5648a630-979f-4403-8999-fc9790dea8cd',
+        title: 'Ciclo 1',
+        slug : 'ciclo-2'
     }
 ];
 export const courses = [
@@ -289,6 +304,21 @@ export const courses = [
         featured   : false,
         progress   : {
             currentStep: 2,
+            completed  : 0
+        }
+    },
+    {
+        id         : 'c9748ea9-999-492c-bdb2-55085b515978',
+        title      : 'La prioridad de la Palabra',
+        slug       : 'prioridad-palabra',
+        description: 'La palabra es la base principal de nuestra Fe',
+        category   : 'ciclo-1',
+        duration   : 60,
+        totalSteps : 11,
+        updatedAt  : 'Apr 04, 2024',
+        featured   : false,
+        progress   : {
+            currentStep: 0,
             completed  : 0
         }
     }
